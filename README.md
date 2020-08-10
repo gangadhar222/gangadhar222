@@ -7,7 +7,7 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... gangadhargondi@outlook.com
 - 😄 Pronouns: ... he/him
-<h5 ><a href="">Portfolio</a></h5>
+<h5 ><a href="https://gangadhar222.github.io/">Portfolio</a></h5>
 <h4 >Frontend Web Developer</h4>
 <h5>
 A Passionate aspiring Frontend Developer moulded and shaped by Masai school's intensive and immensive learning.
