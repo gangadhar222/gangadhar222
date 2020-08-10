@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gangdhar Gondi
 
-- 🔭 I’m currently working on ... Frontend Eeb Development
+- 🔭 I’m currently working on ... Frontend Web Development
 - 🌱 I’m currently learning ... React and Redux
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Node.js
