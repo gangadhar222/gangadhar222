@@ -15,7 +15,8 @@ Looking forward to join a company where I can contribute towards individual and 
 </h5>
 <p>
  <a href="https://www.hackerrank.com/gangadhar222"><img src="https://img.shields.io/badge/hackerrank-%23339933.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gangadhar-gondi-9235591a1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gangadhar-gondi-9235591a1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/gangadhar0495"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 <h4> 🔭<samp> Tech Stack</samp></h4>
 <p >
