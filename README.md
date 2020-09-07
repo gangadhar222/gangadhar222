@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Node.js
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... gangadhargondi@outlook.com
+- 📫 How to reach me: ... gondigangadhar@gmail.com
 - 😄 Pronouns: ... he/him
 <h5 ><a href="https://gangadhar222.github.io/">Portfolio</a></h5>
 <h4 >Frontend Web Developer</h4>
