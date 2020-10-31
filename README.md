@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gangdhar Gondi
+### Hi there 👋 I'm Gangadhar Gondi
 
 - 🔭 I’m currently working on ... Frontend Web Development
 - 🌱 I’m currently learning ... React and Redux
